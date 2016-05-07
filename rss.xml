@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[does-it-work]]></title>
         <description><![CDATA[does-it-work]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/does-it-work/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 06 May 2016 14:26:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 07 May 2016 16:23:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/does-it-work/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>XOXO occupy lumbersexual kickstarter, hoodie chambray hella kitsch bicycle rights meggings microdosing banh mi mlkshk tattooed cornhole. Helvetica ramps aesthetic fingerstache lomo. You probably haven't heard of them beard flexitarian man bun plaid 8-bit, swag skateboard. 8-bit freegan shabby chic intelligentsia umami, street art literally artisan gentrify sustainable four dollar toast etsy fixie mixtape. Man braid tumblr kickstarter etsy, bicycle rights bespoke banh mi kogi health goth pickled godard letterpress leggings. Mumblecore literally man bun narwhal meh, knausgaard fanny pack. Asymmetrical yuccie meh fap mlkshk direct trade, pug readymade pop-up everyday carry cliche etsy letterpress.</p>]]></description>
+            <link>https://thegrid.ai/does-it-work/xoxo-occupy-lumbersexual-kickstarter-hoodie-chambray-hella/index.html</link>
+            <guid isPermaLink="false">33f24ca5-dab8-4b01-94a9-57adbd724700</guid>
+            <pubDate>Sat, 07 May 2016 16:22:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/54280ecd-d44f-4cad-b1f6-aa1f5df4663e.jpg">]]></description>
-            <link>undefinedfirst-example-post-for-gridio-lets-see-how-it-works/index.html</link>
+            <link>https://thegrid.ai/does-it-work/first-example-post-for-gridio-lets-see-how-it-works/index.html</link>
             <guid isPermaLink="false">9f42e0e6-f140-4d42-95af-10b29f770d75</guid>
             <pubDate>Fri, 06 May 2016 14:26:40 GMT</pubDate>
         </item>
