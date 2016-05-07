@@ -1,7 +1,7 @@
 name: does-it-work
 favicon: null
-layout_spectrum: 0.30429382901638746
-typography_spectrum: 0.4285757860634476
+layout_spectrum: 0.49449
+typography_spectrum: 0.31323
 cta:
   domain: null
   bucket: null
