@@ -2,6 +2,7 @@ name: does-it-work
 favicon: null
 layout_spectrum: 0.49449
 typography_spectrum: 0.31323
+title: Sample Content from Newfangled
 cta:
   domain: null
   bucket: null
