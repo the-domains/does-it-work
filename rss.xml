@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[does-it-work]]></title>
-        <description><![CDATA[does-it-work]]></description>
+        <title><![CDATA[Sample Content from Newfangled]]></title>
+        <description><![CDATA[Sample Content from Newfangled]]></description>
         <link>https://thegrid.ai/does-it-work/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 12 May 2016 18:36:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2016 19:06:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/does-it-work/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>https://medium.freecodecamp.com/please-do-learn-to-code-233597dd141c#.jf0d9n7i3</p>]]></description>
+            <link>https://thegrid.ai/does-it-work/httpsmediumfreecodecampcomplease-do-learn-to-code-2335/index.html</link>
+            <guid isPermaLink="false">850c1cce-95ed-413b-9383-ec8ea4e282cb</guid>
+            <pubDate>Thu, 12 May 2016 19:06:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[CLAYMATION - NOW IN 3D!]]></title>
             <description><![CDATA[<article><h1>CLAYMATION - NOW IN 3D!</h1><p>Another #motiontestmonday tutorial by Fred Kennedy</p></article>]]></description>
